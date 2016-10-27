@@ -15,6 +15,7 @@ end
 
 require 'less/rails/version'
 require 'less/rails/helpers'
-require 'less/rails/template_handlers'
+require 'less/rails/less_processor'
 require 'less/rails/import_processor'
+require 'less/rails/less_template'
 require 'less/rails/railtie'
