@@ -31,7 +31,7 @@ class RailtieSpec < Less::Rails::Spec
   describe 'initialization' do
     
     it 'must register our template engine' do
-      dummy_assets.engines['.less'].must_equal Less::Rails::LessTemplate
+      dummy_assets.engines['.less'].must_equal Less::Rails::LessProcessor
     end
     
     it 'must extend the context class with our config' do
