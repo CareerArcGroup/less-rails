@@ -1,0 +1,40 @@
+>> BUNDLE_GEMFILE=/home/sroos/repos/temp/less-rails/gemfiles/rails40.gemfile bundle exec rake test
+Run options: --seed 40301
+
+# Running tests:
+
+...................
+
+Finished tests in 1.363322s, 13.9366 tests/s, 46.9442 assertions/s.
+
+19 tests, 64 assertions, 0 failures, 0 errors, 0 skips
+>> BUNDLE_GEMFILE=/home/sroos/repos/temp/less-rails/gemfiles/rails41.gemfile bundle exec rake test
+Run options: --seed 55449
+
+# Running:
+
+...................
+
+Finished in 1.302465s, 14.5877 runs/s, 49.1376 assertions/s.
+
+19 runs, 64 assertions, 0 failures, 0 errors, 0 skips
+>> BUNDLE_GEMFILE=/home/sroos/repos/temp/less-rails/gemfiles/rails42.gemfile bundle exec rake test
+Run options: --seed 2371
+
+# Running:
+
+...................
+
+Finished in 1.479273s, 12.8441 runs/s, 43.2645 assertions/s.
+
+19 runs, 64 assertions, 0 failures, 0 errors, 0 skips
+>> BUNDLE_GEMFILE=/home/sroos/repos/temp/less-rails/gemfiles/rails50.gemfile bundle exec rake test
+Run options: --seed 36352
+
+# Running:
+
+...................
+
+Finished in 1.885653s, 10.0761 runs/s, 33.9405 assertions/s.
+
+19 runs, 64 assertions, 0 failures, 0 errors, 0 skips
